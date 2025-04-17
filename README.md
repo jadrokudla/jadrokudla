@@ -1,5 +1,5 @@
 
 - 🌱 I’m currently working ...
-php laravel, blade templates and @directives, query builder, CRUD, DB: SQlite and MySQL, MVC pattern. 
+php laravel, blade templates, @directives, query builder, CRUD, MVC pattern with DB:SQlite or MySQL.  
 
 
