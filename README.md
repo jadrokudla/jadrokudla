@@ -6,6 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 📸 Screenshots
+<h2>svk: </h2>
+<img src="svkverzia.png" alt="" width="600">
+<h2>eng: </h2>
+<img src="zivotopiseng.png" alt="" width="600">
 <!---
 jadrokudla/jadrokudla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
