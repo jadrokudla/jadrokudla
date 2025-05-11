@@ -1,3 +1,3 @@
  
 - 🌱  ... laravel fan. 
-- repositories below, inside are screenshots of content.
+-   my repositories below, inside are screenshots of content.
