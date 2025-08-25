@@ -3,6 +3,10 @@
   <h3> - 🚀 Php, Laravel,  MVC, CRUD,  migrations, artisan CLI, Meilisearch, Eloquent ORM, Query Builder, Blade templates, RESTful API. </h3>
   - 🌱 Databeses:  MySQL, SQlite<br>
   - 💡🎯🤝 Repositories are pinned below, inside are screenshots of content. 
+
+
+
+
  
  <p align="center">📄 PHP developer VITA Academy, akreditovany certifikat<p align="center">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
