@@ -7,7 +7,7 @@
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <h5>Akreditovany certifikat</h5>
-    <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat1.jpeg" alt="Akreditovany certifikat" width="300">
+    <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat1.jpeg" alt="Akreditovany certifikat" width="200">
   </div>
   <div style="display: inline-block; margin: 10px;">
     <h5>Osvedčenie</h5>
