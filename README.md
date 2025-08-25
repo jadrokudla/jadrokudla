@@ -8,5 +8,5 @@
 <p align="center">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat1.jpeg"  width="520">
-<img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat2.jpeg"  width="300">
+<img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat2.jpeg"  width="290">
 </p>
