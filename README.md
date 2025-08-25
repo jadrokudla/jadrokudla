@@ -1,7 +1,7 @@
  
   
-  <bold> - 🚀 php, Laravel,  MVC, CRUD,  migrations, artisan CLI, Meilisearch, Eloquent ORM, Query Builder, Blade templates, RESTful API. </bold>
-  - 🌱 Databeses:  MySQL, SQlite<br>
+  <h5> - 🚀 php, Laravel,  MVC, CRUD,  migrations, artisan CLI, Meilisearch, Eloquent ORM, Query Builder, Blade templates, RESTful API. </h5>
+  - 🌱 Databeses:  MySQL, SQlite
   - 💡🎯🤝 Repositories are pinned below, inside are screenshots of content. <br><br>
 
  <p align="center">📄 PHP developer VITA Academy, akreditovany certifikat<p align="center">
