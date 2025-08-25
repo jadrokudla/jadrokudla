@@ -1,6 +1,6 @@
  
   
-  <h3> - 🚀 Php, Laravel,  MVC, CRUD,  migrations, artisan CLI, Meilisearch, Eloquent ORM, Query Builder, Blade templates, RESTful API. </h3>
+  <h4> - 🚀 php, Laravel,  MVC, CRUD,  migrations, artisan CLI, Meilisearch, Eloquent ORM, Query Builder, Blade templates, RESTful API. </h4>
   - 🌱 Databeses:  MySQL, SQlite<br>
   - 💡🎯🤝 Repositories are pinned below, inside are screenshots of content. <br><br>
 
