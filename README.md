@@ -5,7 +5,7 @@
   - 💡🎯🤝 Repositories are pinned below, inside are screenshots of content. 
   
 
-<h3 align="center">📄 PHP developer VITA Academy, akreditovany certifikat</h3><p align="center">
+ <align="center">📄 PHP developer VITA Academy, akreditovany certifikat<p align="center">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat1.jpeg"  width="520">
 <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat2.jpeg"  width="292">
