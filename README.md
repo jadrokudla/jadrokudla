@@ -11,6 +11,6 @@
   </div>
   <div style="display: inline-block; margin: 10px;">
     <h5>Osvedčenie</h5>
-    <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat2.jpeg" alt="Osvedčenie" width="300">
+    <img src="https://raw.githubusercontent.com/jadrokudla/jadrokudla.github.io/main/certifikat2.jpeg" alt="Osvedčenie" width="150">
   </div>
 </div>
