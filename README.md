@@ -1,6 +1,6 @@
  
   
-  <h4> - 🚀 php, laravel, docker, MVC, CRUD, eloquent ORM, query Builder, blade templates, migrations, login system, artisan CLI. </h4>
+  <h4> - 🚀 php, laravel, docker, MVC, CRUD, eloquent model, query builder, blade templates, migrations, login system, artisan CLI. </h4>
   - 📄 Databeses:  MySQL, SQlite<br>
   - 💡 Repositories are pinned below, inside are screenshots of content. <br><br>
 
